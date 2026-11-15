@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<concerts source="urbtix">
+  <concert>
+    <source-event-id>eason-fear-and-dreams-2026</source-event-id>
+    <name>Eason Chan FEAR AND DREAMS</name>
+    <artist>Eason Chan</artist>
+    <venue capacity="12500" city="Hung Hom" country="Hong Kong">Hong Kong Coliseum</venue>
+    <concert-date>2026-12-05</concert-date>
+    <sale-date>2026-10-10T10:00:00+08:00</sale-date>
+    <ticket-platform>URBTIX</ticket-platform>
+    <official-url>https://www.urbtix.hk/event/eason-fear-and-dreams</official-url>
+    <status>ON_SALE</status>
+    <show-count>4</show-count>
+    <prices>
+      <price currency="HKD" ticket-type="Cat 2">580</price>
+      <price currency="HKD" ticket-type="Cat 1">880</price>
+    </prices>
+  </concert>
+  <concert source="cityline">
+    <source-event-id>blackpink-deadline</source-event-id>
+    <name>BLACKPINK WORLD TOUR [DEADLINE] IN HONG KONG</name>
+    <artist>BLACKPINK</artist>
+    <venue capacity="50000">Kai Tak Stadium</venue>
+    <concert-date>2027-01-23</concert-date>
+    <ticket-platform>Cityline</ticket-platform>
+    <official-url>https://www.cityline.com/Events.html</official-url>
+    <status>ANNOUNCED</status>
+    <prices />
+  </concert>
+</concerts>

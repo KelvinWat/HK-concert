@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  Artist metrics import.
+
+  One <artist> per artist. The name is the identity key (case-insensitive).
+  Every metric is optional: omitted values are left untouched, so different
+  producers can safely update different fields.
+
+  Usage:
+    npm run import:artists -- templates/artists.example.xml --dry-run
+    npm run import:artists -- templates/artists.example.xml
+-->
+<artists>
+  <artist source="metrics">
+    <name>BLACKPINK</name>
+    <music-artist-id>41MozSoPIsD1dJM0CLPjZF</music-artist-id>
+    <music-popularity>93</music-popularity>
+    <music-followers>52000000</music-followers>
+    <monthly-listeners>41500000</monthly-listeners>
+    <video-subscribers>96000000</video-subscribers>
+    <search-trend-score>95</search-trend-score>
+    <historical-score>98</historical-score>
+    <global-rank>6211</global-rank>
+  </artist>
+
+  <artist source="metrics">
+    <name>Jay Chou</name>
+    <video-subscribers>4200000</video-subscribers>
+  </artist>
+</artists>

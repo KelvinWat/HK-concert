@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artists>
+  <artist>
+    <name>BLACKPINK</name>
+  </artist>
+  <artist>
+    <name>blackpink</name>
+  </artist>
+  <artist>
+    <name>Coldplay</name>
+    <music-popularity>150</music-popularity>
+  </artist>
+  <artist>
+    <music-followers>1000</music-followers>
+  </artist>
+</artists>

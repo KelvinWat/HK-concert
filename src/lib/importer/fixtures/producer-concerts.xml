@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<concerts source="producer" exported-at="2026-11-15T00:00:00.000Z">
+  <concert>
+    <source-event-id>blackpink-deadline</source-event-id>
+    <name>BLACKPINK WORLD TOUR [DEADLINE] IN HONG KONG</name>
+    <artist>BLACKPINK</artist>
+    <venue>Kai Tak Stadium</venue>
+    <concert-date>2027-01-23</concert-date>
+    <sale-date>2026-11-05T10:00:00+08:00</sale-date>
+    <ticket-platform>Cityline</ticket-platform>
+    <official-url>https://www.cityline.com/Events.html</official-url>
+    <status>ANNOUNCED</status>
+    <prices>
+      <price currency="HKD" ticket-type="Cat 3">688</price>
+      <price currency="HKD" ticket-type="VIP">1888</price>
+    </prices>
+  </concert>
+  <concert>
+    <source-event-id>a-and-b-live</source-event-id>
+    <name>A &amp; B &lt;Live&gt;</name>
+    <artist>The &quot;Band&quot;</artist>
+    <venue>Hong Kong Coliseum</venue>
+    <concert-date>2027-02-14</concert-date>
+    <ticket-platform>URBTIX</ticket-platform>
+    <official-url>https://www.urbtix.hk/event/a-and-b</official-url>
+    <status>ON_SALE</status>
+    <show-count>26</show-count>
+  </concert>
+</concerts>

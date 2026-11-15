@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<concerts>
+  <concert>
+    <source-event-id>missing-source</source-event-id>
+    <name>No Source Concert</name>
+    <artist>Someone</artist>
+    <venue>Somewhere</venue>
+    <concert-date>2026-12-05</concert-date>
+    <ticket-platform>URBTIX</ticket-platform>
+    <official-url>https://example.com/no-source</official-url>
+    <status>ON_SALE</status>
+  </concert>
+  <concert source="urbtix">
+    <source-event-id>bad-status</source-event-id>
+    <name>Bad Status Concert</name>
+    <artist>Someone</artist>
+    <venue>Somewhere</venue>
+    <concert-date>2026-13-05</concert-date>
+    <ticket-platform>URBTIX</ticket-platform>
+    <official-url>not-a-url</official-url>
+    <status>NOT_A_STATUS</status>
+    <prices>
+      <price>0</price>
+    </prices>
+  </concert>
+</concerts>
